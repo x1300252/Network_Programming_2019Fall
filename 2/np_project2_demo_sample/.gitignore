@@ -1,0 +1,5 @@
+output
+work_dir*
+work_template
+*.swp
+*.swo
